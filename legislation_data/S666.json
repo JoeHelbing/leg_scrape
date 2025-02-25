@@ -1,0 +1,18 @@
+{
+  "bill_type": "BILL",
+  "bill_number": "S.666",
+  "bill_url": "https://www.congress.gov/bill/119th-congress/senate-bill/666?s=1&r=85",
+  "all_actions_url": "https://www.congress.gov/bill/119th-congress/senate-bill/666?s=1&r=85/all-actions",
+  "congress": "\u2014 119th Congress (2025-2026)",
+  "title": "A bill to increase access to mental health, substance use, and counseling services for first responders, and for other purposes.",
+  "sponsor_info": "Sponsor: Gillibrand, Kirsten E. [Sen.-D-NY] (Introduced 02/20/2025) Cosponsors: ( 1 )",
+  "sponsor_name": "Gillibrand, Kirsten E. [Sen.-D-NY]",
+  "sponsor_url": "https://www.congress.gov/member/kirsten-gillibrand/G000555",
+  "cosponsors_count": "1",
+  "cosponsors_url": "https://www.congress.gov/bill/119th-congress/senate-bill/666/cosponsors?s=1&r=85&overview=closed#tabs",
+  "committees": "Senate - Health, Education, Labor, and Pensions",
+  "latest_action": "Senate - 02/20/2025 Read twice and referred to the Committee on Health, Education, Labor, and Pensions. ( All Actions )",
+  "latest_action_date": "02/20/2025",
+  "status": "This bill has the status Introduced",
+  "actions": []
+}

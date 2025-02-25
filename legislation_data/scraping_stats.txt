@@ -1,10 +1,10 @@
-Scraping Statistics - Updated: 2025-02-24 18:08:40.789380
-Pages Processed: 1
-Total Bills Processed: 100
+Scraping Statistics - Updated: 2025-02-24 18:16:09.665638
+Pages Processed: 3
+Total Bills Processed: 300
 Total Actions Processed: 0
-Elapsed Time: 179.04 seconds
-Last Page Processing Time: 179.03 seconds
-Average Time Per Bill: 1.79 seconds
-Bills Per Second: 0.56
-Current Page: 1
-Next URL: https://www.congress.gov/search?pageSort=latestAction%3Adesc&q=%7B%22source%22%3A%22legislation%22%2C%22type%22%3A%22bills%22%7D&page=2
+Elapsed Time: 627.91 seconds
+Last Page Processing Time: 217.10 seconds
+Average Time Per Bill: 2.09 seconds
+Bills Per Second: 0.48
+Current Page: 3
+Next URL: https://www.congress.gov/search?pageSort=latestAction%3Adesc&q=%7B%22source%22%3A%22legislation%22%2C%22type%22%3A%22bills%22%7D&page=4
